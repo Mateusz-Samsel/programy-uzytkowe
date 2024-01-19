@@ -1,0 +1,10 @@
+ROK = [2015, 2017, 2019];
+MTV = [74, 82, 93];
+ESKA = [72, 80, 91];
+VHL = [73, 84, 90];
+bar(ROK, [MTV', ESKA', VHL'], 'grouped');
+xlabel('Rok');
+ylabel('Liczba');
+title('wykres');
+legend('MTV', 'ESKA', 'VHL');
+xgrid;
