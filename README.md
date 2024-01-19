@@ -1,1 +1,1 @@
-# programy-uzytkowe
+# Odpowiedzi do kolokwium
